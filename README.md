@@ -1,11 +1,15 @@
-### Olá! 👋 Me chamo Cezar Augusto Rodrigues 
+### Olá! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Me chamo Cezar Augusto Rodrigues 
+##
 
 - 🌍 Moro em: Maringá-PR, Brazil
 - 🔭 Tenho a pretenção de trabalhar como Desenvolvedor WEB Full Stack
 - 🎓 Faço faculdade de Análise e Desenvolvimento de Sistemas (ADS)
 - 🧠 Estou aprimorando meus estudos em Java e Banco de dados PostgreSQL
-- ✉️ Contate-me no e-mail: cezaraugustorrr@gmail.com
-- 🖥️ Veja o meu Currículo profissional em: https://www.linkedin.com/in/cezar-augusto-rodrigues-0467051aa/
+##
+- ✉️ Contate-me via e-mail acessando:  <a href = "mailto:cezaraugustorrr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- 🖥️ Veja o meu Currículo profissional acessando:  <a href="https://www.linkedin.com/in/cezar-augusto-rodrigues-0467051aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- ✉️ Visite também a minha rede social acessando: <a href="https://instagram.com/cezar.augusto.rrr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+
 
 ##
 
@@ -20,13 +24,5 @@
   
 ##
  
-<div> 
-  <a href="https://www.linkedin.com/in/cezar-augusto-rodrigues-0467051aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/cezar.augusto.rrr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-</div>
-
-##
 
  
