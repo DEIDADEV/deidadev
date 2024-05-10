@@ -7,8 +7,8 @@
 - 🧠 Estou aprimorando meus estudos em Java e Banco de dados PostgreSQL
 ##
 - ✉️ Contate-me via e-mail acessando:  <a href = "mailto:cezaraugustorrr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-- 🖥️ Veja o meu Currículo profissional acessando:  <a href="https://www.linkedin.com/in/cezar-augusto-rodrigues-0467051aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-- ✉️ Visite também a minha rede social acessando: <a href="https://instagram.com/cezar.augusto.rrr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+- 👨‍💻 Veja o meu Currículo profissional acessando:  <a href="https://www.linkedin.com/in/cezar-augusto-rodrigues-0467051aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- 💻 Visite também a minha rede social acessando: <a href="https://instagram.com/cezar.augusto.rrr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 
 
 ##
