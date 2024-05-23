@@ -4,7 +4,7 @@
 - 🌍 Moro em: Maringá-PR, Brazil
 - 🔭 Tenho a pretenção de trabalhar como Desenvolvedor WEB Full Stack
 - 🎓 Faço faculdade de Análise e Desenvolvimento de Sistemas (ADS)
-- 🧠 Estou aprimorando meus estudos em Java e Banco de dados PostgreSQL
+- 🧠 Estou aprimorando meus estudos na linguagem Java e no Banco de dados PostgreSQL
 ##
 - ✉️ Contate-me via e-mail acessando:  <a href = "mailto:cezaraugustorrr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 - 👨‍💻 Veja o meu Currículo profissional acessando:  <a href="https://www.linkedin.com/in/cezar-augusto-rodrigues-0467051aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
