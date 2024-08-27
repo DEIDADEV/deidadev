@@ -2,7 +2,7 @@
 ##
 
 - 🌍 Moro em: Maringá-PR, Brazil
-- 🔭 Tenho a pretenção de trabalhar como Desenvolvedor WEB Full Stack
+- 🔭 Tenho a pretenção de trabalhar como um Desenvolvedor WEB Full Stack
 - 🎓 Faço faculdade de Análise e Desenvolvimento de Sistemas (ADS)
 - 🧠 Estou aprimorando meus estudos na linguagem Java e no Banco de dados PostgreSQL
 ##
